@@ -21,6 +21,10 @@ In essence:
 
 3. This AI/ML analysis will also help in forecasting the sugar levels mainly to reduce cases of night time fatalities, which occur when the sugar level of a patient suddenly drops during sleep.
 
+**Deployment:**
+Please take a look at "Deployment File.pdf"
+
+Also the "server.py" script and "Table Queries.pdf" will be needed for the setup.
 
 **Code Contributors:**
 
