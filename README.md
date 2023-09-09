@@ -22,9 +22,11 @@ In essence:
 3. This AI/ML analysis will also help in forecasting the sugar levels mainly to reduce cases of night time fatalities, which occur when the sugar level of a patient suddenly drops during sleep.
 
 **Deployment:**
+
 Please take a look at "Deployment File.pdf"
 
 Also the "server.py" script and "Table Queries.pdf" will be needed for the setup.
+
 
 **Code Contributors:**
 
@@ -33,7 +35,8 @@ Subhranshu (BML Munjal University)
 Arham Alam (BML Munjal University)
 
 
-**Code Mentors:**
+
+** Mentors:**
 
 Dr. Kushal Shah (Sitare University)
 
@@ -42,9 +45,17 @@ Dr. Nishtha Phutela (BML Munjal University)
 Dr. Arun Khosla (NIT Jalandhar)
 
 Dr. Dheryta Jaisinghani (University of Northern Iowa)
-
-
+ 
+   
 **Medical Mentors:**
 
 Dr. Rakesh Kumar (PGIMER, Chandigarh)
+
+Dr. Jaivinder Yadav (PGIMER, Chandigarh)
+
+
+**Other Team Members:**
+
+Mr. Rohit Chawla (Deutsche Bank)
+
 
