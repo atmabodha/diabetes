@@ -36,7 +36,7 @@ Arham Alam (BML Munjal University)
 
 
 
-**Mentors:**
+**Project Mentors:**
 
 Dr. Kushal Shah (Sitare University)
 
